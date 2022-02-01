@@ -256,7 +256,7 @@ async def multi_Doodstream_up(ml_string):
 
     new_string = " ".join(new_ml_string)
 
-    return await addFooter(new_string)
+   
 
 async def new_Doodstream_url(urls):
 
